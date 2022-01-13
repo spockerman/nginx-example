@@ -6,6 +6,6 @@ Para atender ao solicitado no desafio do curso de Docker do FullCyle
 
 ##Como executar
 1. clone da aplicacao
-  
+   https://github.com/spockerman/nginx-example.git
 3. cd nginx-example
 4. docker-compose up -d
